@@ -23,12 +23,12 @@
     <!-- Vendor -->
     <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="15" />
     <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
-    <project path="vendor/gapps" name="vendor_gapps15" remote="Saroj-Tajpuriya" revision="vic-qpr1" />
+    <project path="vendor/gapps" name="vendor_gapps15" remote="Saroj-Tajpuriya" revision="vic" />
 
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="vic" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="vic-qpr1" />
 
 />
 
