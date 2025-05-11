@@ -25,7 +25,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="sapphire-sm6225" revision="vic-qpr1" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="sapphire-sm6225" revision="vic" />
 
 />
 
